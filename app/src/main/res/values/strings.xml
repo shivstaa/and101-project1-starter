@@ -1,14 +1,14 @@
 <resources>
     <string name="app_name">Hello Squirrel</string>
 
-    <string name="first_name">FIRST</string>
-    <string name="last_name">LAST</string>
+    <string name="first_name">SHIV</string>
+    <string name="last_name">SHAH</string>
     <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text">This a short bio about myself.\nIt has multiple lines because I am\na complex being.</string>
+    <string name="profile_bio_text">Hi, my name is Shiv Shah and I am a senior at Arizona State University.\n\n I have been developing for over 4 years now in full stack and ML/AI development and will be joining Mastercard as a full time SWE.\n\n Outside of programming and software engineering, I like working out and playing basketball and volleyball!.</string>
 
     <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
-    <string name="profile_hobby_first_text">🥇 FIRST HOBBY</string>
-    <string name="profile_hobby_second_text">🥈 SECOND HOBBY</string>
-    <string name="profile_hobby_third_text">🥉 THIRD HOBBY</string>
+    <string name="profile_hobby_first_text">🥇 Basketball 🏀</string>
+    <string name="profile_hobby_second_text">🥈 Volleyball 🏐</string>
+    <string name="profile_hobby_third_text">🥉 Working out💪</string>
 </resources>
