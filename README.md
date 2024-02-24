@@ -37,6 +37,10 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='[Video Demo](https://imgur.com/a/FYg3fX7.gif)' title='Video Demo' width='' alt='Video Demo' />
 
+
+https://github.com/shivstaa/and101-project1-starter/assets/96287462/44efcb5d-fbd5-4871-a7eb-243a1972b79c
+
+
 GIF created with **Android Studio Video Capture & Clipchamp**
 
 <!-- Recommended tools:
